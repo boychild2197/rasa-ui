@@ -89,3 +89,4 @@ Rasa UI is possible thanks to all the awesome contributers, thank you!
 ## License
 
 This project is licensed under the MIT License - see the [license](license) file for details
+# rasaXalt
